@@ -312,7 +312,7 @@ Options:
   -C, --cctrace         should we trace condition codes
   -S, --printstats      print some extra stats
   -c, --compute         compute answers for me
-
+```
 
 Most are obvious. Usage of -r turns on a random interrupter (from 1 to intfreq
 as specified by -i), which can make for more fun during homework problems.
@@ -326,7 +326,7 @@ as specified by -i), which can make for more fun during homework problems.
 -c is not really used (unlike most simulators in the book); use the tracing
 
 or condition codes.
-```
+
 Now you have the basics in place; read the questions at the end of the chapter
 to study this race condition and related issues in more depth.
 
